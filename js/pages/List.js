@@ -124,9 +124,6 @@ export default {
                         The recording/replay must show start to finish, 0:00 to however long the map ends
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
