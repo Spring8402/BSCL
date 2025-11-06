@@ -71,6 +71,18 @@ export default {
                             </td>
                         </tr>
                     </table>
+                    <h2>Changelog</h2>
+                    <table class="changelog" v-if="level.changelog && level.changelog.length">
+                        <tr v-for="entry in level.changelog">
+                            <td class="date">
+                                <p>{{ entry.date }}</p>
+                            </td>
+                            <td class="change">
+                                <p>{{ entry.change }}</p>
+                            </td>
+                        </tr>
+                    </table>
+                    <p v-else>No changelog entries available for this level.</p>
                 </div>
                 <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
                     <p>(ノಠ益ಠ)ノ彡┻━┻</p>
@@ -85,6 +97,7 @@ export default {
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
                     </div>
                     <template v-if="editors">
+
                         <h3>List Editors</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
