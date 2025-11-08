@@ -94,3 +94,37 @@ input[type="checkbox"] {
     cursor: pointer;
     margin: 0;
 }
+.records {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.records th,
+.records td {
+    padding: 8px 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.records th {
+    font-weight: 600;
+}
+
+.records .date {
+    width: 20%;
+}
+
+.records .user {
+    width: 40%;
+}
+
+.records .headset {
+    width: 40%;
+}
+
+.records tr:hover {
+    background-color: var(--color-background-hover);
+    color: var(--color-on-background-hover);
+}
+

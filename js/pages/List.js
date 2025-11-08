@@ -48,9 +48,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
-                            <a class="type-label-lg" :href="'https://beatsaver.com/maps/' + level.id" target="_blank">
-                                {{ level.id }}
-                            </a>
+                            <p>{{ level.id }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
