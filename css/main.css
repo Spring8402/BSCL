@@ -128,3 +128,28 @@ input[type="checkbox"] {
     color: var(--color-on-background-hover);
 }
 
+.records,
+.records th,
+.records td {
+    font-family: inherit;
+    font-size: 0.95rem;
+    color: var(--color-on-background);
+}
+
+.records td p {
+    margin: 0;
+    padding: 0;
+    line-height: 1.35;
+    font-family: inherit;
+}
+
+.records th {
+    font-weight: 600;
+    font-family: inherit;
+}
+
+.records {
+    table-layout: fixed;
+    word-wrap: break-word;
+}
+
