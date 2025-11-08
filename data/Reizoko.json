@@ -1,0 +1,26 @@
+{
+    "id": "44aa5",
+    "name": "Reizoko Shake",
+    "category": "Tech",
+    "author": "fakechi",
+    "creators": ["fakechi"],
+    "verifier": "devonix",
+    "verification": "https://youtu.be/HglHJCMlzaA?si=NRY9y0sK268cGDkj",
+    "lengthToQualify": 30,
+    "changelog": [
+        {
+            "date": "2025-11-08",
+            "change": "Added to the list at #11"
+        }
+    ],
+    "records": [
+           {
+            "user": "Qajaq11",
+            "link": "https://replay.beatleader.com/?scoreId=24382157"
+           },
+           {
+            "user": "Spring",
+            "link": "https://replay.beatleader.com/?scoreId=24694699"
+        }
+    ]
+}
