@@ -99,4 +99,19 @@ input[type="checkbox"] {
     border-collapse: collapse;
     margin-top: 10px;
 }
+.records {
+    margin: 0 auto;        /* centers the table */
+    width: 70%;            /* shrink so columns look tighter */
+    border-collapse: collapse;
+}
+
+.records th,
+.records td {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.records th {
+    font-weight: 600;
+}
 
