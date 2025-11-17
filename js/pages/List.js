@@ -46,10 +46,12 @@ export default {
                             <div class="type-title-sm">Points when completed</div>
                             <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
                         </li>
-                        <li>
-                            <div class="type-title-sm">ID</div>
-                            <p>{{ level.id }}</p>
-                        </li>
+                       <li> 
+                       <div class="type-title-sm">ID</div> 
+                       <a class="type-label-lg" :href="'https://beatsaver.com/maps/' + level.id" target="_blank"> 
+                       {{ level.id }} 
+                        </a> 
+                    </li>
                     </ul>
                     <h2>Records</h2>
                     <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
