@@ -19,14 +19,14 @@
             "link": "https://www.youtube.com/watch?v=M7eqN6iRams",
             "date": "2025-6-3",
             "headset": "Quest 2",
-            "percent": "100"
+            "percent": 100
         },
         {
             "user": "Kimno",
             "link": "https://replay.beatleader.com/?scoreId=25407751",
             "date": "2025-7-30",
             "headset": "Quest 2",
-            "percent": "100"
+            "percent": 100
         }
     ]
 }
