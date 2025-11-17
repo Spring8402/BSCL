@@ -68,13 +68,13 @@ export default {
                         <tbody>
                             <tr v-for="record in level.records" :key="record.user" class="record">
                                 <td class="date">
-                                    <p>{{ record.date }}</p>
+                                    <p class="type-label-lg">{{ record.date }}</p>
                                 </td>
                                 <td class="user">
                                     <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
                                 </td>
                                 <td class="headset">
-                                    <p>{{ record.headset }}</p>
+                                    <p class="type-label-lg">{{ record.headset }}</p>
                                 </td>
                             </tr>
                         </tbody>
