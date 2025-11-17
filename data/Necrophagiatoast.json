@@ -1,0 +1,25 @@
+{
+    "id": "48616",
+    "name": "Necrophagiatoast (1.15x)",
+    "category": "Burst Streams",
+    "author": "udon",
+    "creators": ["udon"],
+    "verifier": "Qajaq11",
+    "verification": "https://replay.beatleader.com/?scoreId=25185667",
+    "percentToQualify": 100,
+    "changelog": [
+        {
+            "date": "2025-11-05",
+            "change": "Added to the list at #30"
+        }
+    ],
+    "records": [
+        {
+            "user": "soni",
+            "link": "https://replay.beatleader.com/?scoreId=25962325",
+            "date": "2025-8-22",
+            "headset": "Quest 3",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "40bb3",
+    "name": "Lumnious Fatality",
+    "category": "Jump Vibro",
+    "author": "Awzzie",
+    "creators": ["AwzzieChallengePosts"],
+    "verifier": "soni",
+    "verification": "https://replay.beatleader.com/?scoreId=18554379",
+    "percentToQualify": 100,
+    "changelog": [
+        {
+            "date": "2025-11-17",
+            "change": "Added to the list at #36"
+        }
+    ],
+    "records": [
+        {
+            "user": "Leva_",
+            "link": "https://replay.beatleader.com/?scoreId=21262273",
+            "date": "2025-2-9",
+            "headset": "Quest 2",
+            "percent": 100
+        },
+        {
+            "user": "TheMightiestTaco",
+            "link": "https://replay.beatleader.com/?scoreId=21477459",
+            "date": "2025-2-17",
+            "headset": "Quest 2",
+            "percent": 100
+        }
+    ]
+}

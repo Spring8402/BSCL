@@ -1,0 +1,39 @@
+{
+    "id": "3df59",
+    "name": "kawaii speedcore 654",
+    "category": "Tech",
+    "author": "Oermergeesh",
+    "creators": ["Oermergeesh"],
+    "verifier": "sabrefan",
+    "verification": "https://replay.beatleader.com/?scoreId=20675415",
+    "percentToQualify": 100,
+    "changelog": [
+        {
+            "date": "2025-11-17",
+            "change": "Added to the list at #35"
+        }
+    ],
+    "records": [
+        {
+            "user": "Spring",
+            "link": "https://replay.beatleader.com/?scoreId=22654697",
+            "date": "2025-4-6",
+            "headset": "Quest 2",
+            "percent": 100
+        },
+        {
+            "user": "Oermergeesh",
+            "link": "https://replay.beatleader.com/?scoreId=22798973",
+            "date": "2025-4-12",
+            "headset": "Quest 3",
+            "percent": 100
+        },
+        {
+            "user": "Qajaq11",
+            "link": "https://replay.beatleader.com/?scoreId=24753363",
+            "date": "2025-7-3",
+            "headset": "Quest 2",
+            "percent": 100
+        }
+    ]
+}

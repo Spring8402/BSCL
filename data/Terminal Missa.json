@@ -1,0 +1,25 @@
+{
+    "id": "2cc7c",
+    "name": "Terminal Missa",
+    "category": "Floor Vibro",
+    "author": "Me123",
+    "creators": ["Me123"],
+    "verifier": "Murple",
+    "verification": "https://youtu.be/76MWOdOzWsY?si=w-t_RwLzaPpeJd9S",
+    "percentToQualify": 100,
+    "changelog": [
+        {
+            "date": "2025-11-05",
+            "change": "Added to the list at #31"
+        }
+    ],
+    "records": [
+        {
+            "user": "Syn0Sin",
+            "link": "https://youtu.be/mJtOU8arHD4?si=EYObrzqLnkaad5tA",
+            "date": "2025-7-26",
+            "headset": "Quest 2",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "42e3f",
+    "name": "I Look Alive",
+    "category": "Jump Vibro",
+    "author": "Syn0Sin",
+    "creators": ["Syn0Sin"],
+    "verifier": "Leva_",
+    "verification": "https://youtu.be/M0bAnsXPHS4?si=I4cmoSkIl8SEpsXp",
+    "percentToQualify": 100,
+    "changelog": [
+        {
+            "date": "2025-11-17",
+            "change": "Added to the list at #33"
+        }
+    ],
+    "records": [
+        {
+            "user": "Slinx",
+            "link": "https://youtu.be/4lI1Nt9cZXM?si=rYQPzxeOSW5aThnB",
+            "date": "2025-7-8",
+            "headset": "Quest 2",
+            "percent": 100
+        },
+        {
+            "user": "soni",
+            "link": "https://replay.beatleader.com/?scoreId=26866965",
+            "date": "2025-10-2",
+            "headset": "Quest 3",
+            "percent": 100
+        }
+    ]
+}

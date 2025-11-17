@@ -1,0 +1,25 @@
+{
+    "id": "3d9ba",
+    "name": "Out By 16, Dead On The Scene",
+    "category": "Tech",
+    "author": "Syn0Sin",
+    "creators": ["Syn0Sin"],
+    "verifier": "Spring",
+    "verification": "https://www.youtube.com/watch?v=4BbkyMH5dsU",
+    "percentToQualify": 100,
+    "changelog": [
+        {
+            "date": "2025-11-05",
+            "change": "Added to the list at #32"
+        }
+    ],
+    "records": [
+        {
+            "user": "Kimno",
+            "link": "https://replay.beatleader.com/?scoreId=26639503",
+            "date": "2025-9-21",
+            "headset": "Quest 2",
+            "percent": 100
+        }
+    ]
+}

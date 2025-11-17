@@ -1,0 +1,32 @@
+{
+    "id": "3096c",
+    "name": "Loreloli",
+    "category": "Complex Vibro",
+    "author": "RoadmanReginald",
+    "creators": ["RoadmanReginald"],
+    "verifier": "Bug",
+    "verification": "https://youtu.be/rINr_kHrCNk?si=YB7TmFejP8Fp4YFo",
+    "percentToQualify": 100,
+    "changelog": [
+        {
+            "date": "2025-11-17",
+            "change": "Added to the list at #28"
+        }
+    ],
+    "records": [
+        {
+            "user": "Spring",
+            "link": "https://replay.beatleader.com/?scoreId=24843867",
+            "date": "2025-7-7",
+            "headset": "Quest 3",
+            "percent": 100
+        },
+        {
+            "user": "Qajaq11",
+            "link": "https://replay.beatleader.com/?scoreId=24917712",
+            "date": "2025-7-10",
+            "headset": "Quest 2",
+            "percent": 100
+        }
+    ]
+}

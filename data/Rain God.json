@@ -1,0 +1,39 @@
+{
+    "id": "3e50d",
+    "name": "Rain God",
+    "category": "Tech",
+    "author": "Oermergeesh",
+    "creators": ["Oermergeesh"],
+    "verifier": "sabrefan",
+    "verification": "https://youtu.be/Q49IeKbZoYg?si=yap49kzEEgW872fx",
+    "percentToQualify": 100,
+    "changelog": [
+        {
+            "date": "2025-11-05",
+            "change": "Added to the list at #27"
+        }
+    ],
+    "records": [
+        {
+            "user": "Radiate",
+            "link": "https://replay.beatleader.com/?scoreId=23067580",
+            "date": "2025-4-23",
+            "headset": "Quest 2",
+            "percent": 100
+        },
+        {
+            "user": "Spring",
+            "link": "https://replay.beatleader.com/?scoreId=24625507",
+            "date": "2025-6-27",
+            "headset": "Quest 3",
+            "percent": 100
+        },
+         {
+            "user": "fakechi",
+            "link": "https://replay.beatleader.com/?scoreId=24725014",
+            "date": "2025-7-2",
+            "headset": "Rift S",
+            "percent": 100
+        }
+    ]
+}
