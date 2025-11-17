@@ -16,7 +16,9 @@
     "records": [
         {
             "user": "Spring",
-            "link": "https://www.youtube.com/watch?v=M7eqN6iRams"
+            "link": "https://www.youtube.com/watch?v=M7eqN6iRams",
+            "date": "2025-6-3",
+            "headset": "Quest 2"
         }
     ]
 }

@@ -1,0 +1,30 @@
+{
+    "id": "40415",
+    "name": "Promise",
+    "category": "Tech",
+    "author": "Syn0Sin",
+    "creators": ["Syn0Sin"],
+    "verifier": "Spring",
+    "verification": "https://www.youtube.com/watch?v=ejxXQIK0_YA&pp=0gcJCQMKAYcqIYzv",
+    "lengthToQualify": 30,
+    "changelog": [
+        {
+            "date": "2025-11-08",
+            "change": "Added to the list at #20"
+        }
+    ],
+    "records": [
+        {
+            "user": "Qajaq11",
+            "link": "https://replay.beatleader.com/?scoreId=22272931",
+            "date": "2025-3-21",
+            "headset": "Quest 2"
+        },
+        {
+            "user": "devon",
+            "link": "https://replay.beatleader.com/?scoreId=24074605",
+            "date": "2025-6-3",
+            "headset": "Quest 2"
+        }
+    ]
+}
