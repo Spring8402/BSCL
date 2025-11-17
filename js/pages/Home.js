@@ -12,6 +12,11 @@ export default {
         <p>
           Use the navigation above to browse the leaderboard, list, or roulette challenges!
         </p>
+        <p>
+        THIS IS HIGHLY WORK IN PROGRESS! MANY THINGS ARE CURRENTLY INCOMPLETE!
+        </p>
+        <p>
+        The list is currently owned and managed by abby (@albej) and Spring (@carrot2009).
       </div>
     </section>
   `,
