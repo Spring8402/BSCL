@@ -60,9 +60,9 @@ export default {
                     <table class="records">
                         <thead>
                             <tr>
-                                <th>Date</th>
-                                <th>Player</th>
-                                <th>Headset</th>
+                                <th class="type-label-lg">Date</th>
+                                <th class="type-label-lg">Player</th>
+                                <th class="type-label-lg">Headset</th>
                             </tr>
                         </thead>
                         <tbody>
