@@ -6,7 +6,7 @@
     "creators": ["AlluringKoala"],
     "verifier": "soni",
     "verification": "https://replay.beatleader.com/?scoreId=18419704",
-    "lengthToQualify": 30,
+    "lengthToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-08",
@@ -18,7 +18,8 @@
             "user": "Leva_",
             "link": "https://replay.beatleader.com/?scoreId=19975654",
             "date": "2024-12-21",
-            "headset": "Quest 2"
+            "headset": "Quest 2",
+            "percent": "100"
            }
     ]
 }

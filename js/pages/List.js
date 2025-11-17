@@ -117,25 +117,16 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the score without using hacks (Speed Hack, Cheat Engine(modifying your game to get more swingbug), Hitbox Cheats, etc.)
+                        1. The score must be set legitimately. No use of Speed Hacks, Cheat Engine, Swing Modification, or Hitbox Modification.
                     </p>
                     <p>
-                        Achieved the score on the map that is listed on the site - please check the beatsaver ID before you submit a record
+                        2. The submitted score must be submitted to the correct leaderboard. Please click on the ID of the map to ensure that you are playing the right version. This also means that the score should be set on the correct difficulty of the map if there are multiple.
                     </p>
                     <p>
-                        Have either your beatleader website replay, or if you cannot provide that any type of replay file that can clearly showcase your play
+                        3. You must have a replay file for your score to be considered legitimate. Failure to provide a file if asked will result in the denial of your score.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
-                    </p>
-                    <p>
-                        The recording/replay must show start to finish, 0:00 to however long the map ends
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a map falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said map
+                        4. Verifications must be uploaded to YouTube. Submitted recordings must show the entire replay / map.
                     </p>
                 </div>
             </div>

@@ -6,7 +6,7 @@
     "creators": ["underscor"],
     "verifier": "harper",
     "verification": "https://replay.beatleader.com/?scoreId=18963651",
-    "lengthToQualify": 30,
+    "lengthToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-16",
@@ -18,7 +18,8 @@
             "user": "flicksy",
             "link": "https://replay.beatleader.com/?scoreId=27717385",
             "date": "2025-11-9",
-            "headset": "Quest 2"
+            "headset": "Quest 2",
+            "percent": "100"
         }
     ]
 }

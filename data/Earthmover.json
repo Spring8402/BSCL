@@ -6,7 +6,7 @@
     "creators": ["AwzzieChallengePosts"],
     "verifier": "Leva_",
     "verification": "https://youtu.be/kO-MRW1iI1c?si=zhHtGg7nu99SEund",
-    "lengthToQualify": 30,
+    "lengthToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-16",
@@ -18,7 +18,8 @@
             "user": "Malo",
             "link": "https://replay.beatleader.com/?scoreId=24397813",
             "date": "2025-6-17",
-            "headset": "Quest 2"
+            "headset": "Quest 2",
+            "percent": "100"
            }
     ]
 }

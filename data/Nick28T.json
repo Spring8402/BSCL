@@ -6,7 +6,7 @@
     "creators": ["Nick28T"],
     "verifier": "Syn0Sin",
     "verification": "https://www.youtube.com/watch?v=_lkn_joHl88",
-    "lengthToQualify": 30,
+    "lengthToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-16",
@@ -18,7 +18,8 @@
             "user": "fingy",
             "link": "https://replay.beatleader.com/?scoreId=27852592",
             "date": "2025-11-15",
-            "headset": "Quest 2"
+            "headset": "Quest 2",
+            "percent": "100"
         }
     ]
 }

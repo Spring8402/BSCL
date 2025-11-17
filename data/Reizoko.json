@@ -6,7 +6,7 @@
     "creators": ["fakechi"],
     "verifier": "devonix",
     "verification": "https://youtu.be/HglHJCMlzaA?si=NRY9y0sK268cGDkj",
-    "lengthToQualify": 30,
+    "lengthToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-08",
@@ -18,13 +18,15 @@
             "user": "Qajaq11",
             "link": "https://replay.beatleader.com/?scoreId=24382157",
             "date": "2025-6-16",
-            "headset": "Quest 2"
+            "headset": "Quest 2",
+            "percent": "100"
            },
            {
             "user": "Spring",
             "link": "https://replay.beatleader.com/?scoreId=24694699",
             "date": "2025-6-30",
-            "headset": "Quest 2"
+            "headset": "Quest 2",
+            "percent": "100"
         }
     ]
 }

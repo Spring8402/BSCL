@@ -6,7 +6,7 @@
     "creators": ["Syn0Sin"],
     "verifier": "soni",
     "verification": "https://youtu.be/ohAQwSHVMe0?si=pgP3vGddvASFZj4L",
-    "lengthToQualify": 30,
+    "lengthToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-08",
@@ -18,7 +18,8 @@
             "user": "Devilcat",
             "link": "https://youtu.be/Vbzc1eFDb9s",
             "date": "2025-7-24",
-            "headset": "Quest 2"
+            "headset": "Quest 2",
+            "percent": "100"
          }
     ]
 }

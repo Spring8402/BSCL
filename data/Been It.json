@@ -6,7 +6,7 @@
     "creators": ["dahdumbguy"],
     "verifier": "udon",
     "verification": "https://www.youtube.com/watch?v=6m6oRHv2Pws",
-    "lengthToQualify": 30,
+    "lengthToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-16",
