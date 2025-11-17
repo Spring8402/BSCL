@@ -6,7 +6,7 @@
     "creators": ["Syn0Sin"],
     "verifier": "soni",
     "verification": "https://www.youtube.com/watch?v=idywGnmLhmM",
-    "lengthToQualify": 100,
+    "percentToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-16",

@@ -6,7 +6,7 @@
     "creators": ["KayceeNoelle"],
     "verifier": "KayceeNoelle",
     "verification": "https://youtu.be/WEfLJAfDj_g?si=nZdVM_LFt7n0ojLC",
-    "lengthToQualify": 100,
+    "percentToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-08",

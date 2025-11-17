@@ -6,7 +6,7 @@
     "creators": ["Sniffyz"],
     "verifier": "Qajaq11",
     "verification": "https://youtu.be/bqx9mRqzkx4?si=9QF2weOGaZU71mzi",
-    "lengthToQualify": 100,
+    "percentToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-08",

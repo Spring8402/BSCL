@@ -6,7 +6,7 @@
     "creators": ["KayceeKC"],
     "verifier": "Syn0Sin",
     "verification": "https://www.youtube.com/watch?v=sqZU0-RjEfU&t",
-    "lengthToQualify": 100,
+    "percentToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-05",

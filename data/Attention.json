@@ -6,7 +6,7 @@
     "creators": ["Salad"],
     "verifier": "Syn0Sin",
     "verification": "https://youtu.be/arNI5qAH1Uo?si=kHbMPw79uK3QMyiM",
-    "lengthToQualify": 100,
+    "percentToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-08",

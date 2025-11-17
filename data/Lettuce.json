@@ -6,7 +6,7 @@
     "creators": ["waterbottle7, Fakechi"],
     "verifier": "Qajaq11",
     "verification": "https://youtu.be/XXqvBboLLuk?si=EJBHfLJIH0IFIH7A",
-    "lengthToQualify": 100,
+    "percentToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-08",

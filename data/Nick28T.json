@@ -6,7 +6,7 @@
     "creators": ["Nick28T"],
     "verifier": "Syn0Sin",
     "verification": "https://www.youtube.com/watch?v=_lkn_joHl88",
-    "lengthToQualify": 100,
+    "percentToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-16",

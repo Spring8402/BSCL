@@ -6,7 +6,7 @@
     "creators": ["AlluringKoala"],
     "verifier": "soni",
     "verification": "https://replay.beatleader.com/?scoreId=18419704",
-    "lengthToQualify": 100,
+    "percentToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-08",

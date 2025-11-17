@@ -6,7 +6,7 @@
     "creators": ["AwzzieChallengePosts"],
     "verifier": "Leva_",
     "verification": "https://youtu.be/kO-MRW1iI1c?si=zhHtGg7nu99SEund",
-    "lengthToQualify": 100,
+    "percentToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-16",
