@@ -15,7 +15,11 @@ export default {
         THIS IS HIGHLY WORK IN PROGRESS! MANY THINGS ARE CURRENTLY INCOMPLETE!
         </p>
         <p>
-        The list is currently owned and managed by abby (@albej) and Spring (@carrot2009).
+        The list is currently owned and managed by abby (@albej) and Spring (@carrot2009). 
+        </p>
+        <p>
+        <a href="https://discord.gg/SBeVv757ks"> You can join the discord here!</a>
+        </p>
       </div>
     </section>
   `,
