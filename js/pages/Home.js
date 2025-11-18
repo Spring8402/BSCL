@@ -4,13 +4,12 @@ export default {
   template: `
     <section class="home-section">
       <div class="container">
-        <h1>Welcome to the Beat Saber Challenge List</h1>
+        <h1>Welcome to the Beat Saber Challenge List!</h1>
         <p>
-          The Beat Saber Challenge List (BSCL) is a community-driven ranking
-          of the toughest and most creative custom Beat Saber maps.
+        The Beat Saber Challenge List (BSCL) is a community ran project to rank the hardest passed Beat Saber maps on a list with each other.
         </p>
         <p>
-          Use the navigation above to browse the leaderboard, list, or roulette challenges!
+        The main goal of this project is to create an easier way for people to figure out what the hardest maps are, as well as making an attempt to further the reach of challenge across Beat Saber / Social Media as a whole. 
         </p>
         <p>
         THIS IS HIGHLY WORK IN PROGRESS! MANY THINGS ARE CURRENTLY INCOMPLETE!
