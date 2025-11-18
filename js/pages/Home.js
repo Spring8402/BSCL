@@ -18,7 +18,7 @@ export default {
         The list is currently owned and managed by abby (@albej) and Spring (@carrot2009). 
         </p>
         <p>
-        <a href="https://discord.gg/SBeVv757ks"> You can join the discord here!</a>
+        <a href="https://discord.gg/SBeVv757ks"> You can join the discord here! (Click the text.)</a>
         </p>
       </div>
     </section>
