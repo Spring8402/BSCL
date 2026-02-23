@@ -6,12 +6,12 @@ export function getYoutubeIdFromUrl(url) {
     )?.[1] ?? '';
 }
 
-// Convert a YouTube ID or URL into an embeddable YouTube iframe URL
+// Convert a youtube ID or URL into an embeddable youtube iframe URL
 export function getYoutubeEmbedUrl(url) {
     return `https://www.youtube.com/embed/${getYoutubeIdFromUrl(url)}`;
 }
 
-// Thumbnail for YouTube videos
+// Thumbnail for youtube videos
 export function getThumbnailFromId(id) {
     return `https://img.youtube.com/vi/${id}/mqdefault.jpg`;
 }
@@ -33,7 +33,7 @@ export function embed(video) {
         return getBeatLeaderEmbedUrl(video);
     }
 
-    // Otherwise treat as YouTube
+    // Otherwise treat as youtube
     return getYoutubeEmbedUrl(video);
 }
 
