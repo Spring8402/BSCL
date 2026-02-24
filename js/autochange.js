@@ -17,7 +17,7 @@ if (!addedName || isNaN(addedRank)) {
 }
 
 const LIST_PATH = "data/list.json";
-const LEVELS_DIR = "data"; // levels are directly inside data
+const LEVELS_DIR = "data";
 const today = new Date().toISOString().split("T")[0];
 
 let list = JSON.parse(fs.readFileSync(LIST_PATH, "utf8"));
@@ -27,9 +27,7 @@ if (addedRank < 1 || addedRank > list.length + 1) {
     process.exit(1);
 }
 
-
 list.splice(addedRank - 1, 0, addedName);
-
 
 for (let i = addedRank; i < list.length; i++) {
     const levelName = list[i];
@@ -40,9 +38,11 @@ for (let i = addedRank; i < list.length; i++) {
     const level = JSON.parse(fs.readFileSync(levelPath, "utf8"));
     level.changelog ??= [];
 
+    const newRank = i; 
+
     level.changelog.push({
         date: today,
-        change: `Moved down to #${i} because "${addedName}" was placed above it.`
+        change: `Moved down to #${newRank} because "${addedName}" was placed above it.`
     });
 
     fs.writeFileSync(levelPath, JSON.stringify(level, null, 4));
@@ -61,7 +61,6 @@ if (fs.existsSync(newLevelPath)) {
     fs.writeFileSync(newLevelPath, JSON.stringify(newLevel, null, 4));
 }
 
-// 🔹 Save updated list
 fs.writeFileSync(LIST_PATH, JSON.stringify(list, null, 4));
 
 console.log("Changelog updates complete.");
