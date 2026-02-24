@@ -3,7 +3,9 @@
     "name": "Delivering Lettuce",
     "category": "Tech, Streams",
     "author": "Water & fakechi",
-    "creators": ["waterbottle7, Fakechi"],
+    "creators": [
+        "waterbottle7, Fakechi"
+    ],
     "verifier": "Qajaq11",
     "verification": "https://youtu.be/XXqvBboLLuk?si=EJBHfLJIH0IFIH7A",
     "percentToQualify": 100,
@@ -13,6 +15,5 @@
             "change": "Added to the list at #8"
         }
     ],
-    "records": [
-    ]
+    "records": []
 }

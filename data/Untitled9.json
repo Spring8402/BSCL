@@ -3,7 +3,9 @@
     "name": "Untitled 9",
     "category": "Jump Vibro, Streams",
     "author": "Syn0Sin",
-    "creators": ["Syn0Sin"],
+    "creators": [
+        "Syn0Sin"
+    ],
     "verifier": "soni",
     "verification": "https://youtu.be/rkevNQZEqt8?si=L4-Rf4lBueGL9dbt",
     "percentToQualify": 100,
@@ -12,11 +14,10 @@
             "date": "2025-11-08",
             "change": "Added to the list at #9"
         },
-         {
+        {
             "date": "2025-11-17",
             "change": "Swapped with WyMe, now at #12"
         }
     ],
-    "records": [
-    ]
+    "records": []
 }

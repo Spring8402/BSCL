@@ -3,7 +3,9 @@
     "name": "Rain God",
     "category": "Tech",
     "author": "Oermergeesh",
-    "creators": ["Oermergeesh"],
+    "creators": [
+        "Oermergeesh"
+    ],
     "verifier": "sabrefan",
     "verification": "https://youtu.be/Q49IeKbZoYg?si=yap49kzEEgW872fx",
     "percentToQualify": 100,
@@ -11,6 +13,30 @@
         {
             "date": "2025-11-05",
             "change": "Added to the list at #27"
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #30 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #30 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #31 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #30 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #30 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #29 because \"The Fastest Love Song\" was placed above it."
         }
     ],
     "records": [
@@ -28,7 +54,7 @@
             "headset": "Quest 3",
             "percent": 100
         },
-         {
+        {
             "user": "fakechi",
             "link": "https://replay.beatleader.com/?scoreId=24725014",
             "date": "2025-7-2",

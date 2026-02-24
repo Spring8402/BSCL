@@ -3,7 +3,9 @@
     "name": "Snow",
     "category": "Jump Vibro",
     "author": "underscor",
-    "creators": ["underscor"],
+    "creators": [
+        "underscor"
+    ],
     "verifier": "Syn0Sin",
     "verification": "https://www.youtube.com/watch?v=hkXT2i6nwMk",
     "percentToQualify": 100,
@@ -13,6 +15,5 @@
             "change": "Added to the list at #4"
         }
     ],
-    "records": [
-    ]
+    "records": []
 }

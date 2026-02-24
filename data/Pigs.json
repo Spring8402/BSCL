@@ -3,7 +3,9 @@
     "name": "When I See Pigs Fly",
     "category": "Jump Vibro",
     "author": "AlluringKoala",
-    "creators": ["AlluringKoala"],
+    "creators": [
+        "AlluringKoala"
+    ],
     "verifier": "soni",
     "verification": "https://replay.beatleader.com/?scoreId=18419704",
     "percentToQualify": 100,
@@ -11,15 +13,39 @@
         {
             "date": "2025-11-08",
             "change": "Added to the list at #12"
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #20 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #20 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #21 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #20 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #20 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #19 because \"The Fastest Love Song\" was placed above it."
         }
     ],
     "records": [
-           {
+        {
             "user": "Leva_",
             "link": "https://replay.beatleader.com/?scoreId=19975654",
             "date": "2024-12-21",
             "headset": "Quest 2",
             "percent": 100
-           }
+        }
     ]
 }

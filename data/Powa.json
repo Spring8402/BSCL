@@ -3,7 +3,9 @@
     "name": "POWA OF DA WILDANES",
     "category": "Tech",
     "author": "harperChallengePosts",
-    "creators": ["harper"],
+    "creators": [
+        "harper"
+    ],
     "verifier": "udon",
     "verification": "https://www.youtube.com/watch?v=wnV0yAI7qCY",
     "percentToQualify": 100,
@@ -11,8 +13,31 @@
         {
             "date": "2025-11-08",
             "change": "Added to the list at #19"
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #23 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #23 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #24 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #23 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #23 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #22 because \"The Fastest Love Song\" was placed above it."
         }
     ],
-    "records": [
-    ]
+    "records": []
 }

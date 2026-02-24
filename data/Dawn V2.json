@@ -3,7 +3,9 @@
     "name": "Dawn V2",
     "category": "Streams",
     "author": "Syn0Sin",
-    "creators": ["Syn0Sin"],
+    "creators": [
+        "Syn0Sin"
+    ],
     "verifier": "albe",
     "verification": "https://youtu.be/GAAR8C3pdG0?si=yUIdJmu-YLA242OZ",
     "percentToQualify": 100,
@@ -11,9 +13,31 @@
         {
             "date": "2025-11-05",
             "change": "Added to the list at #29"
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #25 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #25 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #26 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #25 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #25 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #24 because \"The Fastest Love Song\" was placed above it."
         }
     ],
-    "records": [
-    
-    ]
+    "records": []
 }

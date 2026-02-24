@@ -3,7 +3,9 @@
     "name": "Attention",
     "category": "Floor Vibro",
     "author": "Salad",
-    "creators": ["Salad"],
+    "creators": [
+        "Salad"
+    ],
     "verifier": "Syn0Sin",
     "verification": "https://youtu.be/arNI5qAH1Uo?si=kHbMPw79uK3QMyiM",
     "percentToQualify": 100,
@@ -11,8 +13,31 @@
         {
             "date": "2025-11-08",
             "change": "Added to the list at #13"
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #16 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #16 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #17 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #16 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #16 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #15 because \"The Fastest Love Song\" was placed above it."
         }
     ],
-    "records": [   
-    ]
+    "records": []
 }

@@ -3,7 +3,9 @@
     "name": "Living like tomorrows non-existent",
     "category": "Jump Vibro",
     "author": "Syn0Sin",
-    "creators": ["Syn0Sin"],
+    "creators": [
+        "Syn0Sin"
+    ],
     "verifier": "Syn0Sin",
     "verification": "https://youtu.be/LLSTpHny2Pk?si=v-a9DaC2Vgq6loQc",
     "percentToQualify": 100,
@@ -11,8 +13,31 @@
         {
             "date": "2025-11-16",
             "change": "Added to the list at #21"
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #17 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #17 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #18 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #17 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #17 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #16 because \"The Fastest Love Song\" was placed above it."
         }
     ],
-    "records": [
-    ]
+    "records": []
 }

@@ -31,6 +31,12 @@ list = list.filter(name => name !== addedName);
 
 list.splice(addedRank - 1, 0, addedName);
 
+list = list.filter(name => name !== addedName);
+
+
+list.splice(addedRank - 1, 0, addedName);
+
+
 list.forEach((levelName, index) => {
     const levelPath = path.join(LEVELS_DIR, `${levelName}.json`);
     if (!fs.existsSync(levelPath)) return;

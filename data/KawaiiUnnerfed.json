@@ -3,7 +3,9 @@
     "name": "kawaii speedcore 654 (Unnerfed)",
     "category": "Tech",
     "author": "Oermergeesh",
-    "creators": ["Oermergeesh"],
+    "creators": [
+        "Oermergeesh"
+    ],
     "verifier": "sabrefan",
     "verification": "https://replay.beatleader.com/?scoreId=27738676",
     "percentToQualify": 100,
@@ -13,6 +15,5 @@
             "change": "Added to the list at #9"
         }
     ],
-    "records": [
-    ]
+    "records": []
 }

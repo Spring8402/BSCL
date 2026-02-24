@@ -3,7 +3,9 @@
     "name": "It's Always Fun",
     "category": "Jump Vibro",
     "author": "wdg_saint",
-    "creators": ["CashhOutSaint"],
+    "creators": [
+        "CashhOutSaint"
+    ],
     "verifier": "Leva_",
     "verification": "https://www.youtube.com/watch?v=_FDHItza0Rs&t",
     "percentToQualify": 100,
@@ -13,6 +15,5 @@
             "change": "Added to the list at #5"
         }
     ],
-    "records": [
-    ]
+    "records": []
 }

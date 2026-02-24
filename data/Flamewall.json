@@ -3,7 +3,9 @@
     "name": "Flamewall",
     "category": "Tech",
     "author": "Various Mappers",
-    "creators": ["hener, Beanos, Smallfox, and Voltage"],
+    "creators": [
+        "hener, Beanos, Smallfox, and Voltage"
+    ],
     "verifier": "Oermergeesh",
     "verification": "https://youtu.be/NIMDAleeg2w?si=ggSztr5j6URKhhTK",
     "percentToQualify": 100,
@@ -13,6 +15,5 @@
             "change": "Added to the list at #7"
         }
     ],
-    "records": [
-    ]
+    "records": []
 }

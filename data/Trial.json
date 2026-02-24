@@ -3,7 +3,9 @@
     "name": "Trial of the Insane",
     "category": "Floor Vibro",
     "author": "lcat314",
-    "creators": ["lcat314"],
+    "creators": [
+        "lcat314"
+    ],
     "verifier": "CGV",
     "verification": "https://replay.beatleader.com/?scoreId=27043727",
     "percentToQualify": 100,
@@ -11,8 +13,31 @@
         {
             "date": "2025-11-05",
             "change": "Added to the list at #34"
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #36 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #36 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #37 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #36 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #36 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #35 because \"The Fastest Love Song\" was placed above it."
         }
     ],
-    "records": [
-    ]
+    "records": []
 }

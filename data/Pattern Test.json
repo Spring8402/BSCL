@@ -3,7 +3,9 @@
     "name": "Pattern Test Please Ignore",
     "category": "Shitpost",
     "author": "Sniffyz",
-    "creators": ["Sniffyz"],
+    "creators": [
+        "Sniffyz"
+    ],
     "verifier": "Qajaq11",
     "verification": "https://youtu.be/bqx9mRqzkx4?si=9QF2weOGaZU71mzi",
     "percentToQualify": 100,
@@ -11,8 +13,31 @@
         {
             "date": "2025-11-08",
             "change": "Added to the list at #14"
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #18 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #18 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #19 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #18 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #18 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #17 because \"The Fastest Love Song\" was placed above it."
         }
     ],
-    "records": [
-    ]
+    "records": []
 }

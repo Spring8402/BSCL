@@ -3,7 +3,9 @@
     "name": "Nick28T's EXTRAORDINARY Speed Jumps Challenge",
     "category": "Jump Vibro",
     "author": "Nick28T",
-    "creators": ["Nick28T"],
+    "creators": [
+        "Nick28T"
+    ],
     "verifier": "Syn0Sin",
     "verification": "https://www.youtube.com/watch?v=NvyQBiBd4kk&t",
     "percentToQualify": "100",
@@ -13,6 +15,5 @@
             "change": "Added to the list at #3"
         }
     ],
-    "records": [
-    ]
+    "records": []
 }

@@ -3,7 +3,9 @@
     "name": "Earthmover",
     "category": "Jump Vibro",
     "author": "Awzzie",
-    "creators": ["AwzzieChallengePosts"],
+    "creators": [
+        "AwzzieChallengePosts"
+    ],
     "verifier": "Leva_",
     "verification": "https://youtu.be/kO-MRW1iI1c?si=zhHtGg7nu99SEund",
     "percentToQualify": 100,
@@ -11,15 +13,39 @@
         {
             "date": "2025-11-16",
             "change": "Added to the list at #16"
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #21 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #21 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #22 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #21 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #21 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #20 because \"The Fastest Love Song\" was placed above it."
         }
     ],
     "records": [
-         {
+        {
             "user": "Malo",
             "link": "https://replay.beatleader.com/?scoreId=24397813",
             "date": "2025-6-17",
             "headset": "Quest 2",
             "percent": 100
-           }
+        }
     ]
 }

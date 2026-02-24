@@ -3,7 +3,9 @@
     "name": "The Fastest Love Song",
     "category": "Tech",
     "author": "uwu",
-    "creators": ["uwu"],
+    "creators": [
+        "uwu"
+    ],
     "verifier": "Qajaq11",
     "verification": "https://replay.beatleader.com/?scoreId=27948658",
     "percentToQualify": 100,
@@ -11,8 +13,27 @@
         {
             "date": "2026-1-01",
             "change": "Added to the list at #11"
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #13 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #13 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved down to #14 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #13 because \"The Fastest Love Song\" was placed above it."
+        },
+        {
+            "date": "2026-02-24",
+            "change": "Moved to #13 because \"The Fastest Love Song\" was placed above it."
         }
     ],
-    "records": [
-    ]
+    "records": []
 }
