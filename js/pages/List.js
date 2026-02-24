@@ -142,21 +142,25 @@ export default {
         store
     }),
     computed: {
-        level() {
-            return this.list[this.selected][0];
-        },
-        video() {
-            if (!this.level.showcase) {
-                return embed(this.level.verification);
-            }
-
-            return embed(
-                this.toggledShowcase
-                    ? this.level.showcase
-                    : this.level.verification
-            );
-        },
+    level() {
+        if (!this.list || !this.list.length) return null;
+        if (!this.list[this.selected]) return null;
+        return this.list[this.selected][0] || null;
     },
+    video() {
+        if (!this.level) return "";
+
+        if (!this.level.showcase) {
+            return embed(this.level.verification);
+        }
+
+        return embed(
+            this.toggledShowcase
+                ? this.level.showcase
+                : this.level.verification
+        );
+    },
+},
     async mounted() {
         // Hide loading spinner
         this.list = await fetchList();
