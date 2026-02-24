@@ -16,8 +16,8 @@ if (!addedName || isNaN(addedRank)) {
     process.exit(1);
 }
 
-const LEVELS_DIR = "data/levels";
 const LIST_PATH = "data/list.json";
+const LEVELS_DIR = "data"; // levels are directly inside data
 const today = new Date().toISOString().split("T")[0];
 
 let list = JSON.parse(fs.readFileSync(LIST_PATH, "utf8"));
@@ -27,16 +27,14 @@ if (addedRank < 1 || addedRank > list.length + 1) {
     process.exit(1);
 }
 
-// 🔹 Store level that will be pushed down
-const displacedLevel = list[addedRank - 1];
-
 // 🔹 Insert new level into list
-list.splice(addedRank - 1, 0, { id: addedName });
+list.splice(addedRank - 1, 0, addedName);
 
-// 🔹 Update moved levels changelog
+// 🔹 Update moved levels
 for (let i = addedRank; i < list.length; i++) {
-    const entry = list[i];
-    const levelPath = path.join(LEVELS_DIR, `${entry.id}.json`);
+    const levelName = list[i];
+    const levelPath = path.join(LEVELS_DIR, `${levelName}.json`);
+
     if (!fs.existsSync(levelPath)) continue;
 
     const level = JSON.parse(fs.readFileSync(levelPath, "utf8"));
@@ -50,20 +48,18 @@ for (let i = addedRank; i < list.length; i++) {
     fs.writeFileSync(levelPath, JSON.stringify(level, null, 4));
 }
 
-// 🔹 Update newly added level changelog
-if (displacedLevel) {
-    const newLevelPath = path.join(LEVELS_DIR, `${addedName}.json`);
-    if (fs.existsSync(newLevelPath)) {
-        const newLevel = JSON.parse(fs.readFileSync(newLevelPath, "utf8"));
-        newLevel.changelog ??= [];
+// 🔹 Update new level changelog
+const newLevelPath = path.join(LEVELS_DIR, `${addedName}.json`);
+if (fs.existsSync(newLevelPath)) {
+    const newLevel = JSON.parse(fs.readFileSync(newLevelPath, "utf8"));
+    newLevel.changelog ??= [];
 
-        newLevel.changelog.push({
-            date: today,
-            change: `Added at #${addedRank} above "${displacedLevel.id}".`
-        });
+    newLevel.changelog.push({
+        date: today,
+        change: `Added at #${addedRank}.`
+    });
 
-        fs.writeFileSync(newLevelPath, JSON.stringify(newLevel, null, 4));
-    }
+    fs.writeFileSync(newLevelPath, JSON.stringify(newLevel, null, 4));
 }
 
 // 🔹 Save updated list
