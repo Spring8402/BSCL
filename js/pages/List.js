@@ -137,6 +137,7 @@ export default {
         editors: [],
         loading: true,
         selected: 0,
+        toggledShowcase: false,
         errors: [],
         roleIconMap,
         store
