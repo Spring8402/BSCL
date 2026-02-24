@@ -27,39 +27,33 @@ if (addedRank < 1 || addedRank > list.length + 1) {
     process.exit(1);
 }
 
+list = list.filter(name => name !== addedName);
+
 list.splice(addedRank - 1, 0, addedName);
 
-for (let i = addedRank; i < list.length; i++) {
-    const levelName = list[i];
+list.forEach((levelName, index) => {
     const levelPath = path.join(LEVELS_DIR, `${levelName}.json`);
-
-    if (!fs.existsSync(levelPath)) continue;
+    if (!fs.existsSync(levelPath)) return;
 
     const level = JSON.parse(fs.readFileSync(levelPath, "utf8"));
     level.changelog ??= [];
 
-    const newRank = i; 
+    const currentRank = index + 1;
 
-    level.changelog.push({
-        date: today,
-        change: `Moved down to #${newRank} because "${addedName}" was placed above it.`
-    });
+    if (levelName === addedName) {
+        level.changelog.push({
+            date: today,
+            change: `Placed at #${currentRank}.`
+        });
+    } else if (currentRank >= addedRank) {
+        level.changelog.push({
+            date: today,
+            change: `Moved to #${currentRank} because "${addedName}" was placed above it.`
+        });
+    }
 
     fs.writeFileSync(levelPath, JSON.stringify(level, null, 4));
-}
-
-const newLevelPath = path.join(LEVELS_DIR, `${addedName}.json`);
-if (fs.existsSync(newLevelPath)) {
-    const newLevel = JSON.parse(fs.readFileSync(newLevelPath, "utf8"));
-    newLevel.changelog ??= [];
-
-    newLevel.changelog.push({
-        date: today,
-        change: `Added at #${addedRank}.`
-    });
-
-    fs.writeFileSync(newLevelPath, JSON.stringify(newLevel, null, 4));
-}
+});
 
 fs.writeFileSync(LIST_PATH, JSON.stringify(list, null, 4));
 
