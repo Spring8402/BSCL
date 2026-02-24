@@ -27,10 +27,10 @@ if (addedRank < 1 || addedRank > list.length + 1) {
     process.exit(1);
 }
 
-// 🔹 Insert new level into list
+
 list.splice(addedRank - 1, 0, addedName);
 
-// 🔹 Update moved levels
+
 for (let i = addedRank; i < list.length; i++) {
     const levelName = list[i];
     const levelPath = path.join(LEVELS_DIR, `${levelName}.json`);
@@ -42,13 +42,12 @@ for (let i = addedRank; i < list.length; i++) {
 
     level.changelog.push({
         date: today,
-        change: `Moved down to #${i + 1} because "${addedName}" was placed above it.`
+        change: `Moved down to #${i} because "${addedName}" was placed above it.`
     });
 
     fs.writeFileSync(levelPath, JSON.stringify(level, null, 4));
 }
 
-// 🔹 Update new level changelog
 const newLevelPath = path.join(LEVELS_DIR, `${addedName}.json`);
 if (fs.existsSync(newLevelPath)) {
     const newLevel = JSON.parse(fs.readFileSync(newLevelPath, "utf8"));
