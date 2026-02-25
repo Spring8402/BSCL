@@ -12,7 +12,7 @@ const addedName = getArg("added");
 const addedRank = parseInt(getArg("rank"), 10);
 
 if (!addedName || isNaN(addedRank)) {
-    console.error("Usage: node js/autochange.js --added \"Level Name\" --rank <number>");
+    console.error('Usage: node js/autochange.js --added "Level Name" --rank <number>');
     process.exit(1);
 }
 
@@ -22,17 +22,17 @@ const today = new Date().toISOString().split("T")[0];
 
 let list = JSON.parse(fs.readFileSync(LIST_PATH, "utf8"));
 
+const oldPositions = {};
+list.forEach((name, index) => {
+    oldPositions[name] = index + 1;
+});
+
 if (addedRank < 1 || addedRank > list.length + 1) {
     console.error("Invalid rank.");
     process.exit(1);
 }
 
 list = list.filter(name => name !== addedName);
-
-list.splice(addedRank - 1, 0, addedName);
-
-list = list.filter(name => name !== addedName);
-
 
 list.splice(addedRank - 1, 0, addedName);
 
@@ -44,17 +44,26 @@ list.forEach((levelName, index) => {
     const level = JSON.parse(fs.readFileSync(levelPath, "utf8"));
     level.changelog ??= [];
 
-    const currentRank = index + 1;
+    const newRank = index + 1;
+    const oldRank = oldPositions[levelName];
 
-    if (levelName === addedName) {
+    if (levelName === addedName && oldRank === undefined) {
+        // Brand new level
         level.changelog.push({
             date: today,
-            change: `Placed at #${currentRank}.`
+            change: `Placed at #${newRank}.`
         });
-    } else if (currentRank >= addedRank) {
+    } else if (levelName === addedName && oldRank !== newRank) {
+        // Existing level moved
         level.changelog.push({
             date: today,
-            change: `Moved to #${currentRank} "${addedName}" was placed above it.`
+            change: `Moved from #${oldRank} to #${newRank}.`
+        });
+    } else if (oldRank !== undefined && oldRank !== newRank) {
+        // Other levels that shifted
+        level.changelog.push({
+            date: today,
+            change: `Moved from #${oldRank} to #${newRank} because "${addedName}" was placed above it.`
         });
     }
 
