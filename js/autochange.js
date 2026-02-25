@@ -54,7 +54,7 @@ list.forEach((levelName, index) => {
     } else if (currentRank >= addedRank) {
         level.changelog.push({
             date: today,
-            change: `Moved to #${currentRank} because "${addedName}" was placed above it.`
+            change: `Moved to #${currentRank} "${addedName}" was placed above it.`
         });
     }
 
