@@ -3,7 +3,9 @@
     "name": "DropZ-Line",
     "category": "Tech",
     "author": "waterbottle7",
-    "creators": ["Water"],
+    "creators": [
+        "Water"
+    ],
     "verifier": "Spring",
     "verification": "https://www.youtube.com/watch?v=OA1-mUj5aBg",
     "percentToQualify": 100,
@@ -11,8 +13,11 @@
         {
             "date": "2025-11-17",
             "change": "Added to the list at #35"
+        },
+        {
+            "date": "2026-02-25",
+            "change": "Moved from #35 to #36 because \"The Fastest Love Song\" was placed above it."
         }
     ],
-    "records": [
-    ]
+    "records": []
 }
