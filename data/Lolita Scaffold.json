@@ -13,7 +13,11 @@
     "changelog": [
         {
             "date": "2025-11-05",
-            "change": "Added to the list at #1"
+            "change": "Added to the list at #1."
+        },
+        {
+            "date": "2025-11-16",
+            "change": "Moved from #1 to #2 because \"Nick28TV3\" was placed above it."
         }
     ],
     "records": []
