@@ -12,15 +12,11 @@
     "changelog": [
         {
             "date": "2025-11-05",
-            "change": "Added to the list at #10"
+            "change": "Placed at #10."
         },
         {
             "date": "2025-11-17",
-            "change": "Swapped with Untitled #9, now at #11"
-        },
-        {
-            "date": "2026-02-24",
-            "change": "Moved to #13 because \"The Fastest Love Song\" was placed above it."
+            "change": "Moved from #12 to #11 because \"Untitled #9\" was moved below it."
         },
         {
             "date": "2026-02-25",
