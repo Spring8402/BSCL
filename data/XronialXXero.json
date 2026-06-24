@@ -23,5 +23,13 @@
             "change": "Moved from #25 to #26 because \"Copperfield\" was placed above it."
         }
     ],
-    "records": []
+    "records": [
+        {
+            "user": "Devilcat",
+            "link": "https://replay.beatleader.com/?scoreId=29453903",
+            "date": "2026-01-25",
+            "headset": "Quest 2",
+            "percent": 100
+        }
+    ]
 }

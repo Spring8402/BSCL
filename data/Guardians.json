@@ -30,6 +30,34 @@
             "date": "2025-11-9",
             "headset": "Quest 2",
             "percent": 100
+        },
+        {
+            "user": "axcend",
+            "link": "https://replay.beatleader.com/?scoreId=31494939",
+            "date": "2026-04-19",
+            "headset": "Quest 3S",
+            "percent": 100
+        },
+        {
+            "user": "Superkota",
+            "link": "https://www.youtube.com/watch?v=hC2bz8eZ85k",
+            "date": "2026-05-08",
+            "headset": "Quest 2",
+            "percent": 100
+        },
+        {
+            "user": "Syn0Sin",
+            "link": "https://youtu.be/b2oWSwh6rlA&t=97",
+            "date": "2026-06-08",
+            "headset": "Quest 3S",
+            "percent": 100
+        },
+        {
+            "user": "Devilcat",
+            "link": "https://youtu.be/5erdmYvwju0&t=318",
+            "date": "2026-06-16",
+            "headset": "Quest 3S",
+            "percent": 100
         }
     ]
 }

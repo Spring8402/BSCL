@@ -51,7 +51,7 @@ list.forEach((levelName, index) => {
         // Brand new level
         level.changelog.push({
             date: today,
-            change: `Placed at #${newRank}.`
+            change: `Added to the list at #${newRank}.`
         });
     } else if (levelName === addedName && oldRank !== newRank) {
         // Existing level moved

@@ -6,13 +6,13 @@
     "creators": [
         "Syn0Sin"
     ],
-    "verifier": "albe",
+    "verifier": "abby",
     "verification": "https://youtu.be/GAAR8C3pdG0?si=yUIdJmu-YLA242OZ",
     "percentToQualify": 100,
     "changelog": [
         {
             "date": "2025-11-05",
-            "change": "Added to the list at #29"
+            "change": "Added to the list at #29."
         },
         {
             "date": "2026-02-25",
@@ -23,5 +23,13 @@
             "change": "Moved from #24 to #25 because \"Copperfield\" was placed above it."
         }
     ],
-    "records": []
+    "records": [
+    {
+            "user": "Kimno",
+            "link": "https://www.youtube.com/watch?v=J4EoN51fkXI",
+            "date": "2026-06-02",
+            "headset": "Quest 2",
+            "percent": 100
+        }
+    ]
 }

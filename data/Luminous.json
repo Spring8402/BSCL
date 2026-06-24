@@ -27,14 +27,21 @@
         {
             "user": "Leva_",
             "link": "https://replay.beatleader.com/?scoreId=21262273",
-            "date": "2025-2-9",
+            "date": "2025-02-9",
             "headset": "Quest 2",
             "percent": 100
         },
         {
             "user": "TheMightiestTaco",
             "link": "https://replay.beatleader.com/?scoreId=21477459",
-            "date": "2025-2-17",
+            "date": "2025-02-17",
+            "headset": "Quest 2",
+            "percent": 100
+        },
+        {
+            "user": "anthonyILB",
+            "link": "https://replay.beatleader.com/?link=https://api.beatleader.com/otherreplays/6852759344748414-1769977231-Expert-Standard-EDB1632CC0B280A01F11BC4955896199969D9BF0.bsor",
+            "date": "2026-02-01",
             "headset": "Quest 2",
             "percent": 100
         }

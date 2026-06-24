@@ -44,6 +44,13 @@
             "date": "2025-7-2",
             "headset": "Rift S",
             "percent": 100
+        },
+        {
+            "user": "JohnTron",
+            "link": "https://www.youtube.com/watch?v=0ukclTwk_J8",
+            "date": "2026-01-27",
+            "headset": "Quest 2",
+            "percent": 100
         }
     ]
 }
